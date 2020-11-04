@@ -1,0 +1,25 @@
+.b
+{
+	border:1px solid transparent;
+}
+.capt-loc
+{
+	position: absolute;
+	top:40px;
+	left:100px;
+	padding: 0px;
+}
+.search-bar
+{
+	border:1px solid gray;
+	border-radius: 5px;
+	padding: 10px 0px 10px 20px;
+	width: 50%;
+}
+.txt-h1
+{
+	font-weight: bold;
+	text-align: left;
+	font-size: 18px;
+	line-height: 21.96px;
+}

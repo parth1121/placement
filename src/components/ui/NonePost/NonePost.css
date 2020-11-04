@@ -1,0 +1,73 @@
+.example1 {
+    background-color: #cccccc;
+  }
+  .header {
+      background-color: #ffffff;
+  }
+ 
+  
+  .header h1 {
+      padding-top: 90px;
+  }
+  .p-large {
+      margin-bottom: 3.875rem;
+  }
+  .strikethrough_text {
+      position: relative;
+  }
+  .strikethrough_text .strikethrough {
+      width: 53px;
+      top: 1px;
+      border-bottom: 2px solid #FF8C00;
+  }
+  .button {
+    border-radius: 4px;
+    color: white;
+    padding: 12px 70px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #1E90FF;
+  }
+  
+  .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  .small{
+      background-color: #FFD700;
+      color: white; 
+      font-size: large;
+      height: 2px;
+  }
+  .example1 {
+      background-color: #F0F8FF;
+  }
+  #example3 {
+      border-style: solid;
+      border-color: #F8F8FF; 
+      font-family: Arial;
+      font-size: 13px;
+      line-height: 19.5px;
+      background-color: #FFFFFF;
+  }
+  #example4 {
+      padding-top: 40px;
+      background-color: #FFFFFF;
+  }
+  #myDIV {
+    width: 100%;
+    padding: 50px 0;
+    background-color: lightblue;
+    margin-top: 20px;
+  }
+  .button{
+      padding-left: 20px;
+  }
+  
